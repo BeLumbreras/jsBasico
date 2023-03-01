@@ -1,3 +1,5 @@
+// Video 13. Todo lo que debes saber de las variables con var
+
 var producto = "Monitor de 24 Pulgadas";
 
 // Inicializar una variable con un valor
@@ -11,6 +13,7 @@ console.log(producto);
 //Javascript es un lenguaje de tipo dinámico, no se especifica tipo de dato
 //producto = 28;
 console.log(producto);
+
 
 // Se pueden inicializar sin valor y asignar después
 var disponible;

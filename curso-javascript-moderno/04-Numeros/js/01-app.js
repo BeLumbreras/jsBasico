@@ -1,3 +1,5 @@
+// Video 23. Crear Números en JavaScript
+
 // Creación de números
 const num1 = 30;
 const num2 = 20;

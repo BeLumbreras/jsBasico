@@ -1,3 +1,5 @@
+// Video 21. String Methods - Repeat y Split
+
 const producto = 'Monitor 20 Pulgadas';
 
 // .repeat te va a permitir repetir una cadena de texto
@@ -36,5 +38,3 @@ document.body.innerHTML = `
     <ul><li><a href="${tuitsArray[1]}">#${tuitsArray[1]}</a></li></ul>
     <ul><li><a href="${tuitsArray[2]}">#${tuitsArray[2]}</a></li></ul>
 </div>`;
-
-

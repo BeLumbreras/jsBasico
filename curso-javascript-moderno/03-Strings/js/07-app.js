@@ -1,3 +1,5 @@
+// Video 22. String Methods - Convertir a Mayusculas o Minusculas
+
 const producto = 'Monitor 20 Pulgadas';
 
 // .toUpperCase pasa todo el texto a MAYÚSCULAS

@@ -1,3 +1,5 @@
+// Video 17. String Methods - includes y length
+
 const producto = 'Monitor 20 Pulgadas';
 console.log(producto);
 

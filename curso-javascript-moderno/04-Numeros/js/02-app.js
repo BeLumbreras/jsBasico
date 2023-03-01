@@ -1,3 +1,5 @@
+// Video 24. Operaciones en JavaScript
+
 /* OPERACIONES EN JAVASCRIPT */
 
 const num1 = 60;

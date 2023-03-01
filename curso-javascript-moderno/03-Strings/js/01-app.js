@@ -1,9 +1,11 @@
+// Video 16. Crear Strings en Javascript
+
 /* Inicializamos String,
 la comilla doble como parte del String,
 se escapa con diagonal invertida
 */
 // String inicializada con comillas dobles
-const producto = "Monitor 20\"";
+const producto = "Monitor 20\""; // Escapar las comillas
 console.log(producto);
 
 // String inicializada con comillas simples

@@ -1,3 +1,5 @@
+// Video 20. String Methods - Replace, Slice y Substring
+
 const producto = 'Monitor 20 Pulgadas';
 
 // .replace para reemplazar

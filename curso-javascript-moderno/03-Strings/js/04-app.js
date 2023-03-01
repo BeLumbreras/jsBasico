@@ -1,3 +1,5 @@
+// Video 19. Cortar Espacios en Blanco de un String
+
 const producto = '     Monitor 20 Pulgadas     ';
 
 console.log(producto);

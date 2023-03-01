@@ -1,3 +1,5 @@
+// Video 15. Todo lo que debes saber de las variables con const
+
 // Const, constante, no puede ser reasignado,
 // tiene el mismo valor inicial hasta el final
 const producto = 'Tablet';

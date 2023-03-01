@@ -1,3 +1,5 @@
+// Video 14. Todo lo que debes saber de las variables con let
+
 let producto = 'Tablet';
 console.log(producto);
 

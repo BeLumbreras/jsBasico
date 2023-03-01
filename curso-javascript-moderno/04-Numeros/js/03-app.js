@@ -1,3 +1,5 @@
+// Video 25. El Objeto Math
+
 let resultado;
 
 // PI
@@ -11,7 +13,7 @@ resultado = Math.round(2.2); // 2
 resultado = Math.ceil(2.1); // 3
 
 // Redondear hacia abajo forzado
-resultado = Math.floor(2.9); // 3
+resultado = Math.floor(2.9); // 2
 
 // Raíz Cuadrada
 resultado = Math.sqrt(36);

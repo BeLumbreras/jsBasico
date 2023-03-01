@@ -1,5 +1,5 @@
+// Video 26. El Orden de las operaciones
 // El Orden en que se ejecutan las operaciones en JavaScript es igual que en la escuela
-
 
 let resultado 
 // El orden de las operaciones
